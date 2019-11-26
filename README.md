@@ -1,0 +1,1 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/873043c5d9dd49bfbb82cfdbbad5e0c6)](https://www.codacy.com/manual/SygnCll/Wallet?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SygnCll/Wallet&amp;utm_campaign=Badge_Grade)
